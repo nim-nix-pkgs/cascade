@@ -9,7 +9,7 @@
   
   inputs.src-cascade-master.flake = false;
   inputs.src-cascade-master.owner = "haltcase";
-  inputs.src-cascade-master.ref   = "refs/heads/master";
+  inputs.src-cascade-master.ref   = "master";
   inputs.src-cascade-master.repo  = "cascade";
   inputs.src-cascade-master.type  = "github";
   
