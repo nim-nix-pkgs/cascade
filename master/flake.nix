@@ -11,7 +11,6 @@
   inputs.src-cascade-master.ref   = "refs/heads/master";
   inputs.src-cascade-master.owner = "haltcase";
   inputs.src-cascade-master.repo  = "cascade";
-  inputs.src-cascade-master.dir   = "";
   inputs.src-cascade-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
